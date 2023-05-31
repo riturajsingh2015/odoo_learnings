@@ -39,8 +39,10 @@ Here I will explain about coding guidelines being followed
 #### git guidelines
 Following are some of the git guidelines as per the odoo coding guidelines
 
-Commit message :  [commit tag][branch_name] what was done
-| Commit tag   | Description |
+Commit message : ```[commit_tag][branch_name] what was done```
+
+
+| Tag   | Description |
 | ------ | --- |
 | FIX   | for bug fixes: mostly used in stable version but also valid if you are fixing a recent bug in development version;  |
 | REF  | for refactoring: when a feature is heavily rewritten;  |
