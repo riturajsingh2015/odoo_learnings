@@ -64,4 +64,4 @@ Commit message : ```[commit_tag][branch_name] what was done```
 
 
 #### What to do next ?
-In idle time when there are no 
+In idle time work on resolving open-source issues of odoo 
